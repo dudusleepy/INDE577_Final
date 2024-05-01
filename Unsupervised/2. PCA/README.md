@@ -35,9 +35,6 @@ PCA operates through several key steps:
 - Each point in the plot represents a data sample, now described by two principal components.
 - These principal components capture the directions in the data that maximize variance, effectively summarizing the essential data characteristics.
 
-## Using PCA for Genre Clustering with the Spotify Dataset
-
-In this PCA project, we leverage the Spotify dataset to cluster songs into genres based on their audio features. This analysis demonstrates how PCA can reduce dimensionality and extract relevant information, making it a valuable tool for music-related tasks.
 
 ## How to Use
 
