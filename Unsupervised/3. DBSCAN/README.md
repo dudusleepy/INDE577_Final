@@ -8,15 +8,14 @@ Welcome to the DBSCAN Clustering project! This Jupyter notebook explores the DBS
 
 DBSCAN operates by estimating local density around each data point, identifying core points, forming clusters by connecting densely connected core points, and expanding clusters by assigning border points. The algorithm also handles noise points, which do not belong to any cluster. DBSCAN's ability to create clusters based on data density, without the need to specify the number of clusters in advance, makes it a robust and flexible clustering technique.
 
-## Advantages and Disadvantages
 
-Advantages:
+## Advantages:
 - Robust to varying shapes, sizes, and densities of clusters.
 - Effective noise detection and labeling.
 - Automatic determination of the number of clusters.
 - Suitable for datasets with non-uniform cluster densities.
 
-Disadvantages:
+## Disadvantages:
 - Sensitivity to parameters (epsilon and minPts) requiring careful tuning.
 - Performance deterioration in high-dimensional spaces.
 - Higher memory and time requirements for large datasets.
