@@ -1,10 +1,8 @@
 # K-Nearest-Neighbors-with-Python
-This repository contains projects related to KNN algorithm using Python.
 
-## Introduction: K Nearest Neighbors - Classification
-K nearest neighbors is a simple algorithm that stores all available cases and classifies new cases based 
-on a similarity measure (e.g., distance functions). KNN has been used in statistical estimation and pattern 
-recognition already in the beginning of 1970’s as a non-parametric technique.
+## 1. Introduction
+The K-Nearest Neighbors (KNN) algorithm is a straightforward, non-parametric, and versatile method used in both classification and regression tasks. It operates on the principle that similar items tend to be closer to each other in feature space.
+
 -------------------------------------------------------------------------------------------------------------
 _Knn uses follwoing as a distance function_ :  
 
