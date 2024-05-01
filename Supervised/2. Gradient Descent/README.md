@@ -13,7 +13,7 @@ where \( m \) is the slope and \( b \) is the y-intercept of the line.
 
 ### Cost Function
 The performance of a linear regression model is evaluated using a cost function, typically the Mean Squared Error (MSE), which measures the average of the squares of the errors—that is, the average squared difference between the observed actual outcomes and the outcomes predicted by the model:
-\[ MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 \]
+\[ MSE = \frac{1}{n} \sum_{i=1}^n (y_i - \hat{y}_i)^2 \]
 where \( y_i \) is the actual value and \( \hat{y}_i \) is the predicted value.
 
 ### Gradient Descent
