@@ -4,13 +4,8 @@
 
 ## Course Overview
 
-This repository serves as the capstone project for INDE 577, guided by Professor Randy R. Davila. Throughout this course, we have explored an extensive array of topics within data science and machine learning, spanning supervised, unsupervised, and reinforcement learning. The content here is the culmination of a semester's worth of dedicated study, featuring:
+This repository serves as the capstone project for INDE 577, guided by Professor Randy R. Davila. Throughout this course, we have explored an extensive array of topics within data science and machine learning, spanning supervised, unsupervised, and reinforcement learning. We also have delved into practical implementations, programming using Python, and various data science practices.
 
-- **Practical Implementations:** Hands-on coding examples using Python to apply theoretical knowledge to real-world data.
-- **Diverse Learning Paradigms:** Detailed explorations of different machine learning methodologies, each with its own directory containing specific examples and thorough documentation.
-- **Comprehensive Analysis:** Each project segment incorporates data preprocessing, algorithmic application, and results discussion to foster a deep understanding of the tools and techniques used in data science.
-
-We hope this repository not only demonstrates our learning and achievements but also serves as a valuable resource for others interested in the field of data science and machine learning.
 
 ## Repository Structure
 
